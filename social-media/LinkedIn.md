@@ -7,9 +7,9 @@
 ## LinkedIn - Google Search Examples
 
 Google Search | Description 
---------|------------
+--------------|------------
 [site:linkedin.com/in/ intext:"500+" construction](https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+intext%3A%22500%2B%22+construction)| Find profile pages with probably a large network with "construction" keyword
-[site:linkedin.com/company/ intext:"501-1000 employees" intext:"Government Administration"](https://www.google.nl/search?q=site%3Alinkedin.com%2Fcompany%2F+intext%3A"501-1000+employees"+intext%3A"Government+Administration")
+[site:linkedin.com/company/ intext:"501-1000 employees" intext:"Government Administration"](https://www.google.nl/search?q=site%3Alinkedin.com%2Fcompany%2F+intext%3A"501-1000+employees"+intext%3A"Government+Administration") | Find company pages
 
 
 ## LinkedIn Reference Tables
