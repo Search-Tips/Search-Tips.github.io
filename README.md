@@ -2,5 +2,4 @@
 
 ## Social Media
 - Twitter
-- [LinkedIn](./social-media/LinkedIn)
-
+- [LinkedIn](./social-media/LinkedIn.md)
