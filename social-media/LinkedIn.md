@@ -20,3 +20,4 @@ Reference Table | Description
 ----------------|--------------
 [Company size codes](https://developer.linkedin.com/docs/reference/company-size-codes) | For example: "Self-employed", "1-10 employees", "501-1000 employees" or "10,001+ employees"
 [Industry codes](https://developer.linkedin.com/docs/reference/industry-codes) | For example: "Accounting", "Aviation & Aerospace", "Government Administration" or "Wholesale"
+[country code](https://developer.linkedin.com/docs/fields/location) | ISO_3166-1_alpha-2, For example: "AT" Austria, "AU" Australia, "DE" Germany, "PE" Peru, "ZA" South Africa
