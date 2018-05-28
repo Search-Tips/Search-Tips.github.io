@@ -9,7 +9,8 @@
 Google Search | Description 
 --------------|------------
 [site:linkedin.com/in/ intext:"500+" construction](https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+intext%3A%22500%2B%22+construction)| Find profile pages with probably a large network with "construction" keyword
-[site:linkedin.com/company/ intext:"501-1000 employees" intext:"Government Administration"](https://www.google.nl/search?q=site%3Alinkedin.com%2Fcompany%2F+intext%3A"501-1000+employees"+intext%3A"Government+Administration") | Find company pages
+[site:linkedin.com/company/ intext:"501-1000 employees" intext:"Government Administration"](https://www.google.nl/search?q=site%3Alinkedin.com%2Fcompany%2F+intext%3A"501-1000+employees"+intext%3A"Government+Administration") | Find company pages with about 501-1000 employees and working within the government
+[site:au.linkedin.com/in/ construction](https://www.google.nl/search?q=site%3Aau.linkedin.com%2Fin%2F+construction) | Look for profile pages that focus on Australia (AU) with "construction" keyword. These profile pages do not always have to be from people from Australia.
 
 
 ## LinkedIn Reference Tables
