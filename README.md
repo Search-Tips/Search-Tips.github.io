@@ -1,5 +1,5 @@
 # Search Tips
 
 ## Social Media
-- Twitter
+- [Twitter](./social-media/Twitter.md)
 - [LinkedIn](./social-media/LinkedIn.md)
