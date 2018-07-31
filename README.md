@@ -1,7 +1,7 @@
 # Search Tips
 
 ## Search Engines
-[Google](./search-engines/Google.md)
+- [Google](./search-engines/Google.md)
 
 ## Social Media
 - [Twitter](./social-media/Twitter.md)
