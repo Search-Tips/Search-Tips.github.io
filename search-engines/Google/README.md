@@ -20,7 +20,7 @@ Search for file type (like PDF) under specific domain (like "microsoft.com")
 
 `filetype:pdf site:microsoft.com`
 
-Search for file type (like PDF) under specific domain and skip specific subdomain
+Search for file type (like PDF) under specific domain (like "microsoft.com") and skip specific subdomain (like "nds1.webapps.microsoft.com")
 
 `filetype:pdf site:microsoft.com -site:nds1.webapps.microsoft.com`
 
