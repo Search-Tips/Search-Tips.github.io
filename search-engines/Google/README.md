@@ -1,6 +1,7 @@
 # Google
 
 Search on website for words
+
 `google site:microsoft.com`
 
 Show sites that talk about a specific site (example: github.com)
