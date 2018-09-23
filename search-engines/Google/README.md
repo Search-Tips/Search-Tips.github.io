@@ -12,6 +12,10 @@ Search for word but skip specific TLD (top level domain)
 
 `github -site:.com`
 
+Show pages under specific TLD (top level domain like "netflix")
+
+`site:.netflix`
+
 Search for file type (like PDF) with specific word (like "microsoft")
 
 `filetype:pdf microsoft`
@@ -24,7 +28,7 @@ Search for file type (like PDF) under specific domain (like "microsoft.com") and
 
 `filetype:pdf site:microsoft.com -site:nds1.webapps.microsoft.com`
 
-Search for sites with the same domain name at the end. The results are only displayed with a "-" minus sign between them. 
+Search for sites with the same domain name at the end (like "github.com"). The results are only displayed with a "-" minus sign between them (like "example-github.com"). 
 Warning: Many of these results may be potential phishing sites.
 
 `site:*github.com -site:github.com`
